@@ -1,0 +1,16 @@
+{
+    "name": "Mayil",
+    "short_name": "Cheru Mayil",
+    "icons": [
+      {
+        "src": "icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+      ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#your_app_color",
+    "theme_color": "#your_app_color"
+  }
+  
